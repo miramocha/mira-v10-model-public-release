@@ -1,4 +1,5 @@
 # Mira Luna V10 Model: Public Release
+Model released for 500 follows celebration on [Twitch](https://www.twitch.tv/miraluna_mocha)! 
 
 Preview: https://hub.vroid.com/en/characters/3601012791291666462/models/7498029696405875136
 
