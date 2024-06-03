@@ -13,6 +13,6 @@ See license and VRM metadata for details
 - No distribution
 - Personal use only
 
-Feel free to contact me on [Twitter](https://twitter.com/MiraLunaMocha) if there is any questions
+Feel free to contact me on [Twitter](https://twitter.com/MiraLunaMocha) if there is any question!
 
 Enjoy!
